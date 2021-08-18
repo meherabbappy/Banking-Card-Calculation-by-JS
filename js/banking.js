@@ -63,9 +63,6 @@ document.getElementById("deposite-button").addEventListener('click',function(){
         updateBalance(newDepositeAmount,true)
     }
     
-
-
-    
 });
 // withdraw handler
 
